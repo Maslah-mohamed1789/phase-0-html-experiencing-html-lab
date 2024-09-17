@@ -72,7 +72,12 @@ HTML file!
 
 Now we're going to create an HTML list together.
 
-1. Create a new file called `my_list.html`.
+1. Create a new file called Monstera Deliciosa"
+"Fi"ddle Leaf Fig"
+"Pilea"
+"Golden Pothos"
+"Peace Lily"
+`.
 2. Copy the contents of `my_list.txt` and paste them into `my_list.html`.
 3. Save the `my_list.html` file.
 4. Open the `my_list.html` file in the browser. For Mac users, you can do this
